@@ -1,0 +1,24 @@
+#nav2 {
+  padding-top: 10px;
+  height: 60px;
+  background: white;
+  border-bottom: 1px solid #ccc;
+  position: fixed;
+  top: 83px;
+  width: 100%;
+}
+#nav2 li {
+  color: black;
+  font-size: 17px;
+}
+#nav2 a:hover {
+  color: white;
+  border-bottom: 5px solid purple;
+}
+nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.menu {
+  display: none;
+}

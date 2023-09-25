@@ -1,0 +1,54 @@
+.cont6 {
+  background-image: url("https://images.meesho.com/images/pow/supplyBannerDesktop_1106.webp");
+  border-radius: 5px;
+  height: 290px;
+  margin: 50px 10%;
+  padding: 35px 0 0 50px;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+.cont6-title {
+  font-size: 35px;
+  font-weight: bold;
+}
+.cont6-subtitle {
+  margin: 10px 0 20px 0;
+  font-size: 18px;
+}
+.cont6-txt {
+  display: flex;
+  column-gap: 40px;
+}
+.cont6-txt1 {
+  display: flex;
+  column-gap: 10px;
+  line-height: 1;
+}
+.cont6-txt2 {
+  display: flex;
+  column-gap: 10px;
+  line-height: 1;
+}
+.cont6-txt3 {
+  display: flex;
+  column-gap: 10px;
+  line-height: 1;
+}
+.cont6-txt i {
+  color: black;
+  background: green;
+  height: 20px;
+  width: 20px;
+  padding: 2px 3px;
+  border-radius: 50%;
+}
+#cont6-signup {
+  color: purple;
+  background: white;
+  margin-top: 20px;
+  width: 15%;
+  font-weight: 500;
+  font-size: 18px;
+}

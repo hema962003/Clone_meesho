@@ -1,0 +1,62 @@
+.cont4 {
+  background-image: linear-gradient(to bottom, #e8cbc0, #636fa4);
+  border-radius: 5px;
+  height: 550px;
+  margin: 50px 10%;
+  color: black;
+}
+.cont4-left {
+  position: relative;
+  top: 30%;
+  left: 5%;
+}
+#newstyles {
+  font-size: 55px;
+  font-weight: bold;
+  font-family: cursive;
+}
+#view {
+  background-color: purple;
+  color: white;
+  margin: 30px 80px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.cont4-right {
+  position: relative;
+  bottom: 120px;
+  right: 30px;
+  float: right;
+  display: flex;
+  justify-content: space-between;
+}
+.cont4-right img {
+  border-radius: 10px;
+}
+.access {
+  margin: 10px;
+}
+.footwear {
+  margin: 10px;
+}
+.electronic {
+  margin: 10px;
+}
+#access2 {
+  background: black;
+  font-weight: 500;
+  color: white;
+  margin: 30px 40px;
+}
+#footwear2 {
+  background: black;
+  font-weight: 500;
+  color: white;
+  margin: 30px 45px;
+}
+#electronic2 {
+  background: black;
+  font-weight: 500;
+  color: white;
+  margin: 30px 40px;
+}

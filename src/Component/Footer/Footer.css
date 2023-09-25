@@ -1,0 +1,76 @@
+footer {
+  background: whitesmoke;
+  height: 400px;
+  padding: 80px 20px;
+  margin-top: 50px;
+}
+.store {
+  display: flex;
+  column-gap: 10px;
+  margin-top: 40px;
+}
+.footer-child1 {
+  position: relative;
+  bottom: 5px;
+}
+#footer-applestore {
+  border-radius: 5px;
+  background: black;
+  padding: 13px;
+  width: 150%;
+  position: relative;
+  left: 70px;
+}
+#footer-playstore {
+  border-radius: 5px;
+  background: black;
+  padding: 12px;
+  width: 150%;
+}
+.footer-cont {
+  margin-top: 20px;
+  color: rgb(97, 97, 115);
+  font-size: 18px;
+}
+.footer-main {
+  display: flex;
+  padding: 0 15px 0 15px;
+}
+
+.footer-child5 span {
+  font-size: 12px;
+}
+.footer-child2 a {
+  color: rgb(97, 97, 115);
+  font-size: 20px;
+  font-weight: 450;
+}
+.footer-child2 li {
+  margin-bottom: 10px;
+}
+.footer-child3 a {
+  color: rgb(97, 97, 115);
+  font-size: 20px;
+  font-weight: 450;
+}
+.footer-child3 li {
+  margin-bottom: 10px;
+}
+.footer-child4 h6 {
+  color: rgb(53, 53, 67);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  margin-left: 20px;
+}
+.footer-child5 h6 {
+  color: rgb(53, 53, 67);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+}
+.footer-child5 {
+  margin-left: 40px;
+  width: 15%;
+}

@@ -1,0 +1,64 @@
+.cont3 {
+  background-image: linear-gradient(to bottom, #e8cbc0, #636fa4);
+  border-radius: 5px;
+  height: 550px;
+  margin: 50px 10%;
+  color: black;
+}
+.cont3-left {
+  position: relative;
+  top: 30%;
+  left: 5%;
+}
+#essential {
+  font-size: 55px;
+  font-weight: bold;
+  font-family: cursive;
+}
+#view {
+  background-color: purple;
+  color: white;
+  margin: 30px 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.cont3-right {
+  position: relative;
+  bottom: 120px;
+  right: 30px;
+  float: right;
+  display: flex;
+  justify-content: space-between;
+}
+
+.home {
+  margin: 10px;
+}
+.health {
+  margin: 10px;
+}
+.kitchen {
+  margin: 10px;
+}
+#kitchen1 {
+  position: relative;
+  left: 15px;
+}
+#homedecor2 {
+  background: black;
+  font-weight: 500;
+  color: white;
+  margin: 30px 40px;
+}
+#kitchen2 {
+  background: black;
+  font-weight: 500;
+  color: white;
+  margin: 30px 40px;
+}
+#health2 {
+  background: black;
+  font-weight: 500;
+  color: white;
+  margin: 30px 40px;
+}

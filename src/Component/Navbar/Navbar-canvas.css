@@ -1,0 +1,103 @@
+#sticky {
+  overflow: hidden;
+  background: white;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+.main-search {
+  border: 1px solid #ccc;
+  background: white;
+  display: flex;
+  width: 38%;
+  border-radius: 5px;
+}
+.search img {
+  height: 22px;
+  width: 22px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+#navbar-brand {
+  color: purple;
+  font-family: -apple-system, "Helvetica Neue", sans-serif, "Mier Book";
+  font-weight: bold;
+}
+
+.d-flex input {
+  border: none;
+  width: 170%;
+  height: 50px;
+}
+#nav-items {
+  position: absolute;
+  right: 20px;
+}
+#nav-items li {
+  padding: 8px;
+}
+#nav-items a {
+  color: black;
+  font-weight: 400;
+}
+#profile {
+  padding: 20px;
+  display: grid;
+  row-gap: 2px;
+}
+#cart {
+  padding: 22px 20px 20px 20px;
+  display: grid;
+  row-gap: 2px;
+}
+#download {
+  display: flex;
+  column-gap: 10px;
+  border-right: 2px solid whitesmoke;
+  padding: 30px 22px 22px 22px;
+}
+#supply {
+  display: flex;
+  column-gap: 10px;
+  border-right: 2px solid whitesmoke;
+  padding: 30px 22px 22px 22px;
+}
+#download-icon {
+  position: relative;
+  top: 3px;
+  font-size: 20px;
+}
+#supplier-icon {
+  position: relative;
+  top: 3px;
+  font-size: 20px;
+}
+#profile-icon {
+  position: relative;
+  left: 12px;
+  font-size: 20px;
+}
+#cart-icon {
+  position: relative;
+  left: 2px;
+  font-size: 20px;
+}
+/*.d-hover1 {
+  width: 20px;
+  height: 20px;
+  margin-top: 30%;
+}
+.d-hover0 {
+  width: 20px;
+  height: 20px;
+  margin-top: 30%;
+  margin-left:30px;
+}
+.d-hover2 {
+  width: 20px;
+  height: 20px;
+  margin-top: 50%;
+}
+.downloadhover {
+  display: flex;
+  flex-direction: row;
+}*/

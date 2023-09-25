@@ -1,0 +1,39 @@
+.cont5 {
+  background-image: url("https://images.meesho.com/images/pow/downloadBannerDesktop_1050.webp");
+  border-radius: 5px;
+  height: 550px;
+  margin: 50px 10%;
+}
+#cont5-right {
+  float: right;
+}
+#cont5-right h4 {
+  color: skyblue;
+  font-size: 35px;
+  font-weight: 400;
+  position: relative;
+  left: 27%;
+}
+#cont5-right h1 {
+  color: purple;
+  font-weight: 700;
+  font-size: 45px;
+}
+#business {
+  position: relative;
+  top: 10px;
+  right: 60px;
+}
+#zero {
+  position: relative;
+  top: 10px;
+  left: 40px;
+}
+#cont5-right img {
+  border-radius: 5px;
+  height: 40px;
+  width: 180px;
+  margin: 50px 10px;
+  position: relative;
+  left: 100px;
+}

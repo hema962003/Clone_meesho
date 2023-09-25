@@ -1,0 +1,63 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  margin: 90px 10%;
+  background: whitesmoke;
+  height: 350px;
+}
+.right {
+  float: right;
+}
+.left {
+  width: 55%;
+  float: left;
+}
+.left-content {
+  color: black;
+  width: 100%;
+  margin: 30px 30px;
+}
+.left h1 {
+  font-size: 45px;
+  opacity: 80%;
+  font-weight: bold;
+}
+.left ul {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+  padding: 7px 4px 2px 1px;
+  width: 85%;
+  height: 17%;
+  background: white;
+  border-radius: 10px;
+}
+.item img {
+  border: 1px solid grey;
+  border-radius: 50%;
+  padding: 5px;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+.item p {
+  font-weight: 500;
+  position: relative;
+  top: 10px;
+  left: 5px;
+}
+.left img {
+  margin-right: 10px;
+}
+.left button {
+  background: purple;
+  color: white;
+  border-radius: 5px;
+  margin-left: 30px;
+  font-weight: 500;
+}
+.left button:hover {
+  background: purple;
+  color: white;
+}
